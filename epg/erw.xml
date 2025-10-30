@@ -114257,10 +114257,8 @@
 <title lang="zh">对影(2)</title>
 </programme><programme start="20251030223000 +0800" stop="20251030230500 +0800" channel="244">
 <title lang="zh">忠者无敌(27)</title>
-</programme><programme start="20251030230500 +0800" stop="20251030234900 +0800" channel="244">
+</programme><programme start="20251030230500 +0800" stop="20251030235959 +0800" channel="244">
 <title lang="zh">忠者无敌(28)</title>
-</programme><programme start="20251030234900 +0800" stop="20251030235959 +0800" channel="244">
-<title lang="zh">公益宣传片</title>
 </programme>
 <channel id="245">
 <display-name lang="zh">安徽农业科教</display-name>
@@ -145933,7 +145931,9 @@
 <title lang="zh">开讲了</title>
 </programme><programme start="20251030000000 +0800" stop="20251030001500 +0800" channel="306">
 <title lang="zh">开始</title>
-</programme><programme start="20251030001500 +0800" stop="20251030011500 +0800" channel="306">
+</programme><programme start="20251030001500 +0800" stop="20251030004000 +0800" channel="306">
+<title lang="zh">桃花朵朵开</title>
+</programme><programme start="20251030004000 +0800" stop="20251030011500 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
 </programme><programme start="20251030011500 +0800" stop="20251030015000 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
@@ -145941,7 +145941,9 @@
 <title lang="zh">开讲了</title>
 </programme><programme start="20251030024500 +0800" stop="20251030031500 +0800" channel="306">
 <title lang="zh">X档案</title>
-</programme><programme start="20251030031500 +0800" stop="20251030042000 +0800" channel="306">
+</programme><programme start="20251030031500 +0800" stop="20251030035500 +0800" channel="306">
+<title lang="zh">桃花朵朵开</title>
+</programme><programme start="20251030035500 +0800" stop="20251030042000 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
 </programme><programme start="20251030042000 +0800" stop="20251030044500 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
@@ -145993,10 +145995,8 @@
 <title lang="zh">经视欢乐送</title>
 </programme><programme start="20251030225500 +0800" stop="20251030233000 +0800" channel="306">
 <title lang="zh">X档案</title>
-</programme><programme start="20251030233000 +0800" stop="20251030235900 +0800" channel="306">
+</programme><programme start="20251030233000 +0800" stop="20251030235959 +0800" channel="306">
 <title lang="zh">开讲了</title>
-</programme><programme start="20251030235900 +0800" stop="20251030235959 +0800" channel="306">
-<title lang="zh">结束</title>
 </programme>
 <channel id="307">
 <display-name lang="zh">武汉新闻综合</display-name>
