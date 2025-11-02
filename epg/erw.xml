@@ -157041,10 +157041,6 @@
 </programme><programme start="20251103234000 +0800" stop="20251103235900 +0800" channel="328">
 <title lang="zh">向风而行（20）</title>
 </programme>
-<channel id="329">
-<display-name lang="zh">睛彩中原</display-name>
-</channel>
-
 <channel id="330">
 <display-name lang="zh">移动戏曲</display-name>
 </channel>
@@ -159699,6 +159695,52 @@
 </programme><programme start="20251102220700 +0800" stop="20251102221800 +0800" channel="340">
 <title lang="zh">车影视界</title>
 </programme><programme start="20251102221800 +0800" stop="20251102235959 +0800" channel="340">
+<title lang="zh">天下电影</title>
+</programme><programme start="20251103001800 +0800" stop="20251103002700 +0800" channel="340">
+<title lang="zh">影视气象站</title>
+</programme><programme start="20251103002700 +0800" stop="20251103013000 +0800" channel="340">
+<title lang="zh">电影故事会</title>
+</programme><programme start="20251103013000 +0800" stop="20251103031000 +0800" channel="340">
+<title lang="zh">好剧跟我看</title>
+</programme><programme start="20251103031000 +0800" stop="20251103032500 +0800" channel="340">
+<title lang="zh">跟我看电影</title>
+</programme><programme start="20251103032500 +0800" stop="20251103064800 +0800" channel="340">
+<title lang="zh">晚间节目结束</title>
+</programme><programme start="20251103064800 +0800" stop="20251103070600 +0800" channel="340">
+<title lang="zh">跟我看电影</title>
+</programme><programme start="20251103070600 +0800" stop="20251103085600 +0800" channel="340">
+<title lang="zh">好剧跟我看</title>
+</programme><programme start="20251103085600 +0800" stop="20251103102200 +0800" channel="340">
+<title lang="zh">电影故事会</title>
+</programme><programme start="20251103102200 +0800" stop="20251103111400 +0800" channel="340">
+<title lang="zh">天下电影</title>
+</programme><programme start="20251103111400 +0800" stop="20251103113100 +0800" channel="340">
+<title lang="zh">购物时段</title>
+</programme><programme start="20251103113100 +0800" stop="20251103125500 +0800" channel="340">
+<title lang="zh">天下电影</title>
+</programme><programme start="20251103125500 +0800" stop="20251103131800 +0800" channel="340">
+<title lang="zh">跟我看电影</title>
+</programme><programme start="20251103131800 +0800" stop="20251103151700 +0800" channel="340">
+<title lang="zh">五星电影</title>
+</programme><programme start="20251103151700 +0800" stop="20251103153800 +0800" channel="340">
+<title lang="zh">购物时段</title>
+</programme><programme start="20251103153800 +0800" stop="20251103164500 +0800" channel="340">
+<title lang="zh">电影故事会</title>
+</programme><programme start="20251103164500 +0800" stop="20251103165500 +0800" channel="340">
+<title lang="zh">晚间节目开播</title>
+</programme><programme start="20251103165500 +0800" stop="20251103184600 +0800" channel="340">
+<title lang="zh">五星电影</title>
+</programme><programme start="20251103184600 +0800" stop="20251103190900 +0800" channel="340">
+<title lang="zh">跟我看电影</title>
+</programme><programme start="20251103190900 +0800" stop="20251103205600 +0800" channel="340">
+<title lang="zh">好剧跟我看</title>
+</programme><programme start="20251103205600 +0800" stop="20251103211200 +0800" channel="340">
+<title lang="zh">调剂节目</title>
+</programme><programme start="20251103211200 +0800" stop="20251103220700 +0800" channel="340">
+<title lang="zh">电影故事会</title>
+</programme><programme start="20251103220700 +0800" stop="20251103221800 +0800" channel="340">
+<title lang="zh">车影视界</title>
+</programme><programme start="20251103221800 +0800" stop="20251103235959 +0800" channel="340">
 <title lang="zh">天下电影</title>
 </programme>
 <channel id="341">
@@ -255240,6 +255282,48 @@
 <title lang="zh">健康365</title>
 </programme><programme start="20251102223500 +0800" stop="20251102235959 +0800" channel="563">
 <title lang="zh">巅峰赛事</title>
+</programme><programme start="20251103000000 +0800" stop="20251103000500 +0800" channel="563">
+<title lang="zh">20242025赛季CBA联赛</title>
+</programme><programme start="20251103000500 +0800" stop="20251103002000 +0800" channel="563">
+<title lang="zh">新疆体育第20251030期</title>
+</programme><programme start="20251103002000 +0800" stop="20251103004500 +0800" channel="563">
+<title lang="zh">三人篮球公开赛淘汰赛</title>
+</programme><programme start="20251103004500 +0800" stop="20251103080000 +0800" channel="563">
+<title lang="zh">跟我耍大牌第20251102期</title>
+</programme><programme start="20251103080000 +0800" stop="20251103093100 +0800" channel="563">
+<title lang="zh">20242025赛季CBA联赛</title>
+</programme><programme start="20251103093100 +0800" stop="20251103093800 +0800" channel="563">
+<title lang="zh">健康365</title>
+</programme><programme start="20251103093800 +0800" stop="20251103104000 +0800" channel="563">
+<title lang="zh">跟我耍大牌第20251101期</title>
+</programme><programme start="20251103104000 +0800" stop="20251103121300 +0800" channel="563">
+<title lang="zh">20242025赛季CBA联赛</title>
+</programme><programme start="20251103121300 +0800" stop="20251103140000 +0800" channel="563">
+<title lang="zh">第十五届全运会拳击比赛小组赛</title>
+</programme><programme start="20251103140000 +0800" stop="20251103150200 +0800" channel="563">
+<title lang="zh">跟我耍大牌第20251102期</title>
+</programme><programme start="20251103150200 +0800" stop="20251103154300 +0800" channel="563">
+<title lang="zh">自治区第二届冬季运动会</title>
+</programme><programme start="20251103154300 +0800" stop="20251103165800 +0800" channel="563">
+<title lang="zh">2025年斯诺克西安大奖赛半决赛</title>
+</programme><programme start="20251103165800 +0800" stop="20251103180000 +0800" channel="563">
+<title lang="zh">跟我耍大牌第20251102期</title>
+</programme><programme start="20251103180000 +0800" stop="20251103201500 +0800" channel="563">
+<title lang="zh">第十五届全运会</title>
+</programme><programme start="20251103201500 +0800" stop="20251103202500 +0800" channel="563">
+<title lang="zh">健康365</title>
+</programme><programme start="20251103202500 +0800" stop="20251103211000 +0800" channel="563">
+<title lang="zh">自治区第二届冬季运动会</title>
+</programme><programme start="20251103211000 +0800" stop="20251103213000 +0800" channel="563">
+<title lang="zh">新疆体育第20251103期</title>
+</programme><programme start="20251103213000 +0800" stop="20251103223500 +0800" channel="563">
+<title lang="zh">跟我耍大牌第20251103期</title>
+</programme><programme start="20251103223500 +0800" stop="20251103230600 +0800" channel="563">
+<title lang="zh">健康e生第20251103期</title>
+</programme><programme start="20251103230600 +0800" stop="20251103231000 +0800" channel="563">
+<title lang="zh">健康365</title>
+</programme><programme start="20251103231000 +0800" stop="20251103235959 +0800" channel="563">
+<title lang="zh">第十五届全运会</title>
 </programme>
 <channel id="564">
 <display-name lang="zh">星影</display-name>
