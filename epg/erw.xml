@@ -115466,22 +115466,8 @@
 <title lang="zh">忠者无敌(39)</title>
 </programme><programme start="20251106230500 +0800" stop="20251106235959 +0800" channel="244">
 <title lang="zh">忠者无敌(40)</title>
-</programme><programme start="20251107000000 +0800" stop="20251107055500 +0800" channel="244">
+</programme><programme start="20251107000000 +0800" stop="20251107103200 +0800" channel="244">
 <title lang="zh">精彩呈现</title>
-</programme><programme start="20251107055500 +0800" stop="20251107062700 +0800" channel="244">
-<title lang="zh">公益宣传片</title>
-</programme><programme start="20251107062700 +0800" stop="20251107070200 +0800" channel="244">
-<title lang="zh">孤雁(4)</title>
-</programme><programme start="20251107070200 +0800" stop="20251107075000 +0800" channel="244">
-<title lang="zh">孤雁(5)</title>
-</programme><programme start="20251107075000 +0800" stop="20251107083300 +0800" channel="244">
-<title lang="zh">孤雁(6)</title>
-</programme><programme start="20251107083300 +0800" stop="20251107091500 +0800" channel="244">
-<title lang="zh">孤雁(7)</title>
-</programme><programme start="20251107091500 +0800" stop="20251107095700 +0800" channel="244">
-<title lang="zh">孤雁(8)</title>
-</programme><programme start="20251107095700 +0800" stop="20251107103200 +0800" channel="244">
-<title lang="zh">孤雁(9)</title>
 </programme><programme start="20251107103200 +0800" stop="20251107115000 +0800" channel="244">
 <title lang="zh">孤雁(10)</title>
 </programme><programme start="20251107115000 +0800" stop="20251107121000 +0800" channel="244">
@@ -146906,11 +146892,15 @@
 <title lang="zh">我的抗战</title>
 </programme><programme start="20251107081500 +0800" stop="20251107090500 +0800" channel="305">
 <title lang="zh">我的抗战</title>
-</programme><programme start="20251107090500 +0800" stop="20251107105000 +0800" channel="305">
+</programme><programme start="20251107090500 +0800" stop="20251107095500 +0800" channel="305">
+<title lang="zh">移动的枪口</title>
+</programme><programme start="20251107095500 +0800" stop="20251107105000 +0800" channel="305">
 <title lang="zh">移动的枪口</title>
 </programme><programme start="20251107105000 +0800" stop="20251107111500 +0800" channel="305">
 <title lang="zh">湖北教育新闻</title>
-</programme><programme start="20251107111500 +0800" stop="20251107124500 +0800" channel="305">
+</programme><programme start="20251107111500 +0800" stop="20251107114500 +0800" channel="305">
+<title lang="zh">门当户对</title>
+</programme><programme start="20251107114500 +0800" stop="20251107124500 +0800" channel="305">
 <title lang="zh">门当户对</title>
 </programme><programme start="20251107124500 +0800" stop="20251107133500 +0800" channel="305">
 <title lang="zh">门当户对</title>
@@ -146928,16 +146918,16 @@
 <title lang="zh">我的抗战</title>
 </programme><programme start="20251107191000 +0800" stop="20251107200500 +0800" channel="305">
 <title lang="zh">我的抗战</title>
-</programme><programme start="20251107200500 +0800" stop="20251107215000 +0800" channel="305">
+</programme><programme start="20251107200500 +0800" stop="20251107205500 +0800" channel="305">
+<title lang="zh">我的抗战</title>
+</programme><programme start="20251107205500 +0800" stop="20251107215000 +0800" channel="305">
 <title lang="zh">我的抗战</title>
 </programme><programme start="20251107215000 +0800" stop="20251107233000 +0800" channel="305">
 <title lang="zh">育见情感</title>
 </programme><programme start="20251107233000 +0800" stop="20251107235500 +0800" channel="305">
 <title lang="zh">育见新知</title>
-</programme><programme start="20251107235500 +0800" stop="20251107235900 +0800" channel="305">
+</programme><programme start="20251107235500 +0800" stop="20251107235959 +0800" channel="305">
 <title lang="zh">门当户对</title>
-</programme><programme start="20251107235900 +0800" stop="20251107235959 +0800" channel="305">
-<title lang="zh">结束</title>
 </programme>
 <channel id="306">
 <display-name lang="zh">湖北生活</display-name>
@@ -147350,7 +147340,9 @@
 <title lang="zh">开讲了</title>
 </programme><programme start="20251107023000 +0800" stop="20251107030000 +0800" channel="306">
 <title lang="zh">X档案</title>
-</programme><programme start="20251107030000 +0800" stop="20251107040500 +0800" channel="306">
+</programme><programme start="20251107030000 +0800" stop="20251107034000 +0800" channel="306">
+<title lang="zh">桃花朵朵开</title>
+</programme><programme start="20251107034000 +0800" stop="20251107040500 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
 </programme><programme start="20251107040500 +0800" stop="20251107044500 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
@@ -147386,7 +147378,9 @@
 <title lang="zh">枪神传奇(6)</title>
 </programme><programme start="20251107161700 +0800" stop="20251107170700 +0800" channel="306">
 <title lang="zh">枪神传奇(7)</title>
-</programme><programme start="20251107170700 +0800" stop="20251107190900 +0800" channel="306">
+</programme><programme start="20251107170700 +0800" stop="20251107175700 +0800" channel="306">
+<title lang="zh">桃花朵朵开</title>
+</programme><programme start="20251107175700 +0800" stop="20251107190900 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
 </programme><programme start="20251107190900 +0800" stop="20251107201700 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
@@ -147400,10 +147394,8 @@
 <title lang="zh">战火青春(29)</title>
 </programme><programme start="20251107224500 +0800" stop="20251107232000 +0800" channel="306">
 <title lang="zh">X档案</title>
-</programme><programme start="20251107232000 +0800" stop="20251107235900 +0800" channel="306">
+</programme><programme start="20251107232000 +0800" stop="20251107235959 +0800" channel="306">
 <title lang="zh">开讲了</title>
-</programme><programme start="20251107235900 +0800" stop="20251107235959 +0800" channel="306">
-<title lang="zh">结束</title>
 </programme>
 <channel id="307">
 <display-name lang="zh">武汉新闻综合</display-name>
