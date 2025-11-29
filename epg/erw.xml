@@ -116402,10 +116402,8 @@
 <title lang="zh">风云大剧院人间正道是沧桑(30)</title>
 </programme><programme start="20251129215000 +0800" stop="20251129223000 +0800" channel="244">
 <title lang="zh">寒战</title>
-</programme><programme start="20251129223000 +0800" stop="20251129230500 +0800" channel="244">
+</programme><programme start="20251129223000 +0800" stop="20251129235959 +0800" channel="244">
 <title lang="zh">无间(37)</title>
-</programme><programme start="20251129230500 +0800" stop="20251129235959 +0800" channel="244">
-<title lang="zh">公益宣传片</title>
 </programme>
 <channel id="245">
 <display-name lang="zh">安徽农业科教</display-name>
@@ -147450,11 +147448,11 @@
 <title lang="zh">育见新知</title>
 </programme><programme start="20251129043500 +0800" stop="20251129050000 +0800" channel="305">
 <title lang="zh">门当户对</title>
-</programme><programme start="20251129050000 +0800" stop="20251129052000 +0800" channel="305">
+</programme><programme start="20251129050000 +0800" stop="20251129054000 +0800" channel="305">
 <title lang="zh">门当户对</title>
-</programme><programme start="20251129052000 +0800" stop="20251129061000 +0800" channel="305">
+</programme><programme start="20251129054000 +0800" stop="20251129063000 +0800" channel="305">
 <title lang="zh">猎杀</title>
-</programme><programme start="20251129061000 +0800" stop="20251129070000 +0800" channel="305">
+</programme><programme start="20251129063000 +0800" stop="20251129070000 +0800" channel="305">
 <title lang="zh">猎杀</title>
 </programme><programme start="20251129070000 +0800" stop="20251129080000 +0800" channel="305">
 <title lang="zh">猎杀</title>
@@ -147488,14 +147486,12 @@
 <title lang="zh">猎杀</title>
 </programme><programme start="20251129200500 +0800" stop="20251129205500 +0800" channel="305">
 <title lang="zh">猎杀</title>
-</programme><programme start="20251129205500 +0800" stop="20251129215000 +0800" channel="305">
+</programme><programme start="20251129205500 +0800" stop="20251129214500 +0800" channel="305">
 <title lang="zh">猎杀</title>
-</programme><programme start="20251129215000 +0800" stop="20251129233000 +0800" channel="305">
+</programme><programme start="20251129214500 +0800" stop="20251129221500 +0800" channel="305">
+<title lang="zh">他从大山深处走来</title>
+</programme><programme start="20251129221500 +0800" stop="20251129235959 +0800" channel="305">
 <title lang="zh">育见情感</title>
-</programme><programme start="20251129233000 +0800" stop="20251129235500 +0800" channel="305">
-<title lang="zh">育见新知</title>
-</programme><programme start="20251129235500 +0800" stop="20251129235959 +0800" channel="305">
-<title lang="zh">门当户对</title>
 </programme>
 <channel id="306">
 <display-name lang="zh">湖北生活</display-name>
