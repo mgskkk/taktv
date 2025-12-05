@@ -116978,10 +116978,8 @@
 <title lang="zh">金小气家族花城热恋(14)</title>
 </programme><programme start="20251205223000 +0800" stop="20251205230500 +0800" channel="244">
 <title lang="zh">尖刀出鞘(7)</title>
-</programme><programme start="20251205230500 +0800" stop="20251205234900 +0800" channel="244">
+</programme><programme start="20251205230500 +0800" stop="20251205235959 +0800" channel="244">
 <title lang="zh">尖刀出鞘(8)</title>
-</programme><programme start="20251205234900 +0800" stop="20251205235959 +0800" channel="244">
-<title lang="zh">公益宣传片</title>
 </programme>
 <channel id="245">
 <display-name lang="zh">安徽农业科教</display-name>
@@ -148250,13 +148248,17 @@
 <title lang="zh">经视直播</title>
 </programme><programme start="20251205012500 +0800" stop="20251205021000 +0800" channel="306">
 <title lang="zh">X档案</title>
-</programme><programme start="20251205021000 +0800" stop="20251205030000 +0800" channel="306">
+</programme><programme start="20251205021000 +0800" stop="20251205023500 +0800" channel="306">
+<title lang="zh">桃花朵朵开</title>
+</programme><programme start="20251205023500 +0800" stop="20251205030000 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
 </programme><programme start="20251205030000 +0800" stop="20251205032500 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
 </programme><programme start="20251205032500 +0800" stop="20251205041000 +0800" channel="306">
 <title lang="zh">X档案</title>
-</programme><programme start="20251205041000 +0800" stop="20251205050000 +0800" channel="306">
+</programme><programme start="20251205041000 +0800" stop="20251205043500 +0800" channel="306">
+<title lang="zh">桃花朵朵开</title>
+</programme><programme start="20251205043500 +0800" stop="20251205050000 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
 </programme><programme start="20251205050000 +0800" stop="20251205052500 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
@@ -148288,7 +148290,9 @@
 <title lang="zh">决战江南(29)</title>
 </programme><programme start="20251205161700 +0800" stop="20251205170700 +0800" channel="306">
 <title lang="zh">决战江南(30)</title>
-</programme><programme start="20251205170700 +0800" stop="20251205190900 +0800" channel="306">
+</programme><programme start="20251205170700 +0800" stop="20251205175700 +0800" channel="306">
+<title lang="zh">桃花朵朵开</title>
+</programme><programme start="20251205175700 +0800" stop="20251205190900 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
 </programme><programme start="20251205190900 +0800" stop="20251205201700 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
@@ -148302,10 +148306,10 @@
 <title lang="zh">飞虎队(21)</title>
 </programme><programme start="20251205224500 +0800" stop="20251205232000 +0800" channel="306">
 <title lang="zh">X档案</title>
-</programme><programme start="20251205232000 +0800" stop="20251205235900 +0800" channel="306">
+</programme><programme start="20251205232000 +0800" stop="20251205234500 +0800" channel="306">
 <title lang="zh">桃花朵朵开</title>
-</programme><programme start="20251205235900 +0800" stop="20251205235959 +0800" channel="306">
-<title lang="zh">结束</title>
+</programme><programme start="20251205234500 +0800" stop="20251205235959 +0800" channel="306">
+<title lang="zh">桃花朵朵开</title>
 </programme>
 <channel id="307">
 <display-name lang="zh">武汉新闻综合</display-name>
