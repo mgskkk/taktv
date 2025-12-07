@@ -116884,20 +116884,8 @@
 <title lang="zh">风云大剧院风云年代(1)</title>
 </programme><programme start="20251206215000 +0800" stop="20251206235959 +0800" channel="244">
 <title lang="zh">刀客外传</title>
-</programme><programme start="20251207000000 +0800" stop="20251207001200 +0800" channel="244">
+</programme><programme start="20251207000000 +0800" stop="20251207092900 +0800" channel="244">
 <title lang="zh">精彩呈现</title>
-</programme><programme start="20251207001200 +0800" stop="20251207055500 +0800" channel="244">
-<title lang="zh">公益宣传片</title>
-</programme><programme start="20251207055500 +0800" stop="20251207063000 +0800" channel="244">
-<title lang="zh">公益宣传片</title>
-</programme><programme start="20251207063000 +0800" stop="20251207071200 +0800" channel="244">
-<title lang="zh">无间(3)</title>
-</programme><programme start="20251207071200 +0800" stop="20251207075300 +0800" channel="244">
-<title lang="zh">无间(4)</title>
-</programme><programme start="20251207075300 +0800" stop="20251207083500 +0800" channel="244">
-<title lang="zh">无间(5)</title>
-</programme><programme start="20251207083500 +0800" stop="20251207092900 +0800" channel="244">
-<title lang="zh">无间(6)</title>
 </programme><programme start="20251207092900 +0800" stop="20251207101000 +0800" channel="244">
 <title lang="zh">无间(7)</title>
 </programme><programme start="20251207101000 +0800" stop="20251207110200 +0800" channel="244">
@@ -116930,8 +116918,10 @@
 <title lang="zh">风云大剧院风云年代(3)</title>
 </programme><programme start="20251207211500 +0800" stop="20251207215000 +0800" channel="244">
 <title lang="zh">风云大剧院风云年代(4)</title>
-</programme><programme start="20251207215000 +0800" stop="20251207235959 +0800" channel="244">
+</programme><programme start="20251207215000 +0800" stop="20251207233000 +0800" channel="244">
 <title lang="zh">目击者</title>
+</programme><programme start="20251207233000 +0800" stop="20251207235959 +0800" channel="244">
+<title lang="zh">尖刀出鞘(10)</title>
 </programme>
 <channel id="245">
 <display-name lang="zh">安徽农业科教</display-name>
