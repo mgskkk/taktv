@@ -698,12 +698,12 @@
     {
       "epgid": "CHC动作电影",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png",
-      "name": "CHC动作电影,CHCATV,CHC动作,📀CHC动作电影,CHC-动作电影,CHC动作电影F,CHC动作电影IPV6,CHC-動作電影-HD,动作电影HD"
+      "name": "CHC动作电影,CHCATV,CHC动作,📀CHC动作电影,CHC-动作电影,CHC动作电影F,CHC动作电影HD,CHC动作电影IPV6,CHC-動作電影-HD,动作电影HD"
     },
     {
       "epgid": "CHC家庭影院",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png",
-      "name": "CHC家庭影院,CHCTV,CHC家庭,📀CHC家庭影院,CHC-家庭影院,CHC家庭影院F,CHC-家庭影院-HD,CHC家庭影院IPV6,CHC家庭电影,家庭影院HD"
+      "name": "CHC家庭影院,CHCTV,CHC家庭,📀CHC家庭影院,CHC-家庭影院,CHC家庭影院F,CHC-家庭影院-HD,CHC家庭影院HD,CHC家庭影院IPV6,CHC家庭电影,家庭影院HD"
     },
     {
       "epgid": "CHC家庭电影",
@@ -718,7 +718,7 @@
     {
       "epgid": "CHC高清电影",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC高清电影.png",
-      "name": "CHC高清电影,CHCHD,CHC影迷电影,CHC影迷电影高清,CHC-影迷電影-HD,CHC高清,📀CHC高清电影,CHC-高清电影,CHC高清电影F,CHC高清电影IPV6"
+      "name": "CHC高清电影,CHCHD,CHC影迷电影,CHC影迷电影HD,CHC影迷电影高清,CHC-影迷電影-HD,CHC高清,📀CHC高清电影,CHC-高清电影,CHC高清电影F,CHC高清电影IPV6"
     },
     {
       "epgid": "CHONGQING",
@@ -5988,7 +5988,7 @@
     {
       "epgid": "乐游",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/乐游.png",
-      "name": "乐游,SITV乐游,上海乐游HD"
+      "name": "乐游,SITV乐游,上海乐游HD,全纪实HD"
     },
     {
       "epgid": "九江",
@@ -12008,7 +12008,7 @@
     {
       "epgid": "生活时尚",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/生活时尚.png",
-      "name": "生活时尚,133TV5MONDESTYLE,SITV-9生活时尚,SITV生活时尚,上海生活时尚"
+      "name": "生活时尚,133TV5MONDESTYLE,SITV-9生活时尚,SITV生活时尚,上海生活时尚,生活时尚HD"
     },
     {
       "epgid": "电子体育",
@@ -13288,7 +13288,7 @@
     {
       "epgid": "都市剧场",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/都市剧场.png",
-      "name": "都市剧场,CITY都市剧场,SITV都市剧场,SITV都市剧场高清,都市剧场F"
+      "name": "都市剧场,CITY都市剧场,SITV都市剧场,SITV都市剧场高清,都市剧场F,都市剧场HD"
     },
     {
       "epgid": "鄂尔多斯",
